@@ -142,8 +142,8 @@ const extracurricular = [
     type: "Achievements",
     iconBg: "#007BB5",
     date: "April 2023",
-    points: ["Credential ID: mohitsinghrajput"],
-    credential: "https://www.linkedin.com/in/mohitsinghrajput/",
+    points: ["Credential ID: perumalsinghrajput"],
+    credential: "https://www.linkedin.com/in/perumalsinghrajput/",
   },
   {
     title: "Java (Basic), CSS, SQL (Basic)-HackerRank",

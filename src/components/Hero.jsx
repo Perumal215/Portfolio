@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 import { useState, useEffect } from "react";
-import FloatingIcons from "./FloatingIcons";
 
 import { ReactTyped } from "react-typed";
 const Hero = () => {

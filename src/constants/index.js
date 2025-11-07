@@ -117,7 +117,7 @@ const technologies = [
   {
     name: "git",
     icon: git,
-  },
+  }
 
 ];
 
@@ -127,10 +127,9 @@ const experiences = [
     company_name: "",
     icon: cognizant,
     iconBg: "#fff",
-    date: "May 2024 - present",
+    date: "",
     points: [
-      "Achieved ServiceNow Certified Risk and Compliance certification.",
-      "Specialized in GRC/IRM (Governance, Risk, and Compliance/Integrated Risk Management) within ServiceNow, gaining hands-on experience in this product line."
+      
     ],
   }
 
@@ -138,47 +137,14 @@ const experiences = [
 
 const extracurricular = [
   {
-    title: "1.5K+ Connections on LinkedIn",
+    title: "",
     type: "Achievements",
     iconBg: "#007BB5",
-    date: "April 2023",
-    points: ["Credential ID: perumalsinghrajput"],
-    credential: "https://www.linkedin.com/in/perumalsinghrajput/",
+    date: "",
+    points: ["Credential ID: "],
+    credential: "",
   },
-  {
-    title: "Java (Basic), CSS, SQL (Basic)-HackerRank",
-    type: "Certification",
-    // icon: hackerrank,
-    iconBg: "#050C18",
-    date: "2022-2023",
-    points: [
-      "Credential ID: aac000e38dc9",
-      "Credential ID: a274bb1292eb",
-      "Credential ID: b024370fa737",
-    ],
-    credential: "https://www.hackerrank.com/certificates/aac000e38dc9",
-  },
-  {
-    title: "Web Development-Internshala",
-    type: "Certification",
-    // icon: internshala,
-    iconBg: "#1294C8",
-    date: "Sept 2021",
-    points: ["Credential ID: 281DB109-2DA8-A160-DCBC-C6C0F552B57C"],
-    credential:
-      "https://trainings.internshala.com/verify-certificate/?certificate_number=281DB109-2DA8-A160-DCBC-C6C0F552B57C",
-  },
-  {
-    title: "Combat Sport-Karate",
-    type: "Extracurricular(Hobby)/Combat Sport",
-    icon: karate,
-    iconBg: "#CCCFD8",
-    date: "2006-2020",
-    points: [
-      "State level Gold medalist in Kumite.",
-      "Renshi Cup National Championship Bronze medalist in Kumite.",
-    ],
-  },
+
 ];
 
 const projects = [

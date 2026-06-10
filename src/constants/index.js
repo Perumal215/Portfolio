@@ -71,8 +71,8 @@ const education = [
     company_name: "Affiliated to Anna University",
     icon: oist,
     iconBg: "#fff",
-    date: "2022-2026 - present",
-    points: ["Bachelors in  Electronics and Communication  Engineering",      "CGPA: 8.2/10",
+    date: "2026",
+    points: ["Bachelors in  Electronics and Communication  Engineering",      "CGPA: 8.3/10",
     ],
   },
   {

@@ -10,7 +10,7 @@ const Contact = () => {
     {
       icon: <Mail size={34} className="text-[#FF0000]" />,
       title: "Email",
-      value: "ssirangjivi@gmail.com",
+      value: "perumalnarayanan103@gmail.com",
       link: "mailto:ssirangjivi",
     },
 {
